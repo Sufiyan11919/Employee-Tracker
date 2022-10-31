@@ -1,4 +1,4 @@
-##Employee-Tracker
+## Employee-Tracker
 Project is done by using Node.js, MySQL and Inquirer. It is a small realtional database system to manage and keep a record of all the employees of a company. to add remove and update a new employee is possible with different functions.
 
 ## Tech Stack
