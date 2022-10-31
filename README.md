@@ -17,7 +17,7 @@ Project is done by using Node.js, MySQL and Inquirer. It is a small realtional d
 - https://sufiyan11919.github.io/Employee-Tracker/
 
 ## Testing
-API routes tested using SQL workbench and VS code Terminal
+SQL workbench and VS code Terminal
 
 ## Walkthrough Video
 [Video](https://drive.google.com/file/d/1pMhdq2CAToX8xjDA0yn37gPTf1IsEc2u/view) : https://drive.google.com/file/d/1pMhdq2CAToX8xjDA0yn37gPTf1IsEc2u/view
