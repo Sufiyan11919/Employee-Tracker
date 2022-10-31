@@ -65,7 +65,6 @@ const getManagers = () => {
 };
 arrayMan = getManagers();
 
-// main functions
 const viewDeptartments = () => {
     const query = `SELECT * FROM department;`;
 
