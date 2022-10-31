@@ -10,7 +10,11 @@ Project is done by using Node.js, MySQL and Inquirer. It is a small realtional d
 
 ![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/Employee-Tracker/main/Screenshots/Screenshot%20(222).png)
 
+## GitHub Link
+- https://github.com/Sufiyan11919/Employee-Tracker
 
+## Github Pages Link
+- https://sufiyan11919.github.io/Employee-Tracker/
 
 ## Testing
 API routes tested using SQL workbench and VS code Terminal
